@@ -1,6 +1,6 @@
 # NoteApp_HiltAndTest
 In this app I used:
-- Clean Architecture
+- Clean Architecture, MVVM
 - Retrofit
 - Dependency Injection
 - Test(Mockito and Espresso)
